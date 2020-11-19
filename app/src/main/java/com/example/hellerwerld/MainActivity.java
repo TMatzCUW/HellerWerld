@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void onButtonClicked2(View V){
         TextView textView2=this.findViewById(R.id.textView2);
-        textView2.setText("Mays");
+        textView2.setText("May");
     }
 }
